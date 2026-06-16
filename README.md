@@ -1,0 +1,2 @@
+# AI-Powered-Handwritten-Digit-Classifier-with-TensorFlow-Streamlit-EasyOCR
+NeuralScript is a deep learning-based handwritten digit recognition system built with TensorFlow, Streamlit, OpenCV, and EasyOCR. It supports image uploads, camera capture, video analysis, drawing canvas input, and multi-digit OCR, delivering real-time predictions with confidence scores through an interactive web interface.
